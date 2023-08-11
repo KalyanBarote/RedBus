@@ -22,7 +22,7 @@ public class browser {
 //Second
 //2
 //4
-	//5
+	//25
 	public void setup() throws Throwable {
 
 		String browser = readPropertyFile("browser");
