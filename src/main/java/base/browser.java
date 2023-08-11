@@ -18,13 +18,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class browser {
 
 	public static WebDriver driver; 
-//java
-//new changes g
-//2
-//4
-	//K2
-	//k4
-	//25
+
 	public void setup() throws Throwable {
 
 		String browser = readPropertyFile("browser");
