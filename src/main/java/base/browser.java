@@ -19,7 +19,10 @@ public class browser {
 
 	public static WebDriver driver; 
 //java
-//new changes	
+//new changes
+//2
+//4
+	//25
 	public void setup() throws Throwable {
 
 		String browser = readPropertyFile("browser");
